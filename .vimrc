@@ -53,3 +53,5 @@ set wrap "Wrap lines
 map <leader>n :bnext<cr>
 map <leader>p :bprevious<cr>
 map <leader>d :bdelete<cr>
+
+let g:netrw_liststyle=3
