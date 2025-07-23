@@ -55,3 +55,4 @@ map <leader>p :bprevious<cr>
 map <leader>d :bdelete<cr>
 
 let g:netrw_liststyle=3
+let g:netrw_winsize=30
